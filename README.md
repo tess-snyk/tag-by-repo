@@ -1,3 +1,9 @@
+snyk.io free trial - upgrade to Business or Enterprise to get API access
+
+Import a project: https://docs.snyk.io/integrations/git-repository-scm-integrations/github-integration
+
+Fork this to see some vulns: https://github.com/tess-snyk/juice-shop
+
 1. Dataset containing tag (repo) names:
 
 bitbucket-cloud-import-targets.json
